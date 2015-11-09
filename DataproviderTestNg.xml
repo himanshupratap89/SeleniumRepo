@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="dataprovidersuite">
+<tests>
+<test name="Dataprovidetest">
+<classes>
+<class name="selenium.DataproviderImplementation">
+</class></classes>
+</test>
+</tests>
+</suite>
